@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TechAdrianPro
+- 👋 Hi, I’m @TechAdix
 - 👀 I’m interested in Termux and Discord Bots
 
 
